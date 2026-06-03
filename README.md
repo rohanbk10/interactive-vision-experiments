@@ -16,7 +16,7 @@ These experiments simulate 3D depth on a 2D screen without VR hardware[cite: 1].
 * Dynamically generates an off-axis projection frustum based on the viewer's physical location[cite: 1, 2].
 * Renders a 3D grid and skybox that shifts naturally as the user moves their head, creating a "window into another world" effect[cite: 1, 2].
 
-[Insert GIF here: 5-second clip showing the perspective shifting as you move your head]
+<img width="476" height="596" alt="Head-ar-GIF (2)" src="https://github.com/user-attachments/assets/e7210de5-5dec-49b6-9ecf-b60159051d65" />
 
 ### 2. Kinematic Hand Physics & Interaction
 **Files:** `HandBrickBreaker.py`, `Hand3DBrickBreaker.py`, `FaceParticles.py`, `ParticleWell.py`
