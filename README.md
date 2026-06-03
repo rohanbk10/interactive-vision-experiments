@@ -25,14 +25,10 @@ These scripts translate physical hand tracking into rigid-body physics objects.
 * Allows the user to physically "push" thousands of simulated particles using the natural shape of their hands[cite: 8].
 * Includes a fully playable Brick Breaker clone where the user's hand acts as the paddle, utilizing collision detection and velocity reflection[cite: 5].
 
-[Insert GIF here: 5-second clip showing you hitting the ball with your hand in Brick Breaker]
-
 ### 3. Real-Time Gesture Classification
 **Files:** `HandPoses.py`
 * Maps and analyzes joint angles to classify specific hand gestures on the fly (e.g., Open Hand, Fist, Peace Sign, Pointing)[cite: 6].
 * Renders dynamically tracking bounding boxes and classification labels over the webcam feed[cite: 6].
-
-[Insert GIF here: 5-second clip showing the gesture recognizer classifying your hand shapes]
 
 ## 🚀 How to Run Locally
 
